@@ -212,13 +212,14 @@ which can be used in EpochChangeInferencer Callback and an actual segmentation (
                 ├─images
                 └─masks
 </pre> 
-<h3>2.3 Train_images_sample</h3>
+<h3>2.3 Train_Images and Masks</h3>
+<b>Train_images_sample</b><br>
 <img src="./projects/TensorFlowFlexUNet/Stroke/asset/train_images_sample.png" width="1024" height="auto">
 <br>
 <b>Train_masks_sample</b><br>
 <img src="./projects/TensorFlowFlexUNet/Stroke/asset/train_masks_sample.png" width="1024" height="auto">
 <br>
-
+<br>
 <h3>
 3 Train TensorFlowFlexUNet Model
 </h3>
