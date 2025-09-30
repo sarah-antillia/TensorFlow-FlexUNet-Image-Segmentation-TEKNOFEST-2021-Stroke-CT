@@ -212,7 +212,7 @@ which can be used in EpochChangeInferencer Callback and an actual segmentation (
                 ├─images
                 └─masks
 </pre> 
-<b>2.3 Train_images_sample</b><br>
+<h3>2.3 Train_images_sample</h3>
 <img src="./projects/TensorFlowFlexUNet/Stroke/asset/train_images_sample.png" width="1024" height="auto">
 <br>
 <b>Train_masks_sample</b><br>
@@ -220,11 +220,11 @@ which can be used in EpochChangeInferencer Callback and an actual segmentation (
 <br>
 
 <h3>
-3 Train TensorFlowUNet Model
+3 Train TensorFlowFlexUNet Model
 </h3>
- We trained Stroke TensorFlowFlexUNet Model by using the following
+ We trained Stroke TensorFlowFlexUNet Model by using the 
 <a href="./projects/TensorFlowFlexUNet/Stroke/train_eval_infer.config"> <b>train_eval_infer.config</b></a> file. <br>
-Please move to ./projects/TensorFlowFlexUNet/Strokeand run the following bat file.<br>
+Please move to ./projects/TensorFlowFlexUNet/Stroke and run the following bat file.<br>
 <pre>
 >1.train.bat
 </pre>
