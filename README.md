@@ -62,7 +62,6 @@ TEKNOFEST 2021 ARTIFICIAL INTELLIGENCE DATASET IN HEALTH
 <br>
 <br>
 <b>About Dataset</b><br>
-
 The dataset consists of anonymized DICOM, PNG format brain CT slice images. Brain CT cross-sectional images were labeled and 
 hyperacute/acute ischemic areas and hemorrhagic areas were segmented by seven (7) radiologists. 
 During the labeling and segmentation process, the annotation made by one radiologist was checked by another radiologist. 
@@ -72,14 +71,12 @@ The PNG format contains the original image, mask images and their overlays on th
 The detailed preparation of the dataset can be found in the following article.
 <br>
 <br>
-
 <b>Objective:</b><br>
  The artificial intelligence competition in healthcare was organized for the first time at the annual aviation, 
  space, and technology festival (TEKNOFEST), Istanbul/Türkiye, in September 2021. 
  In this article, the data set preparation and competition processes were explained in detail; the anonymized 
  and annotated data set is also provided via official website for further research.
 <br><br>
-
 <b>Materials and Methods:</b><br>
  Data set recorded over the period covering 2019 and 2020 were centrally screened from the e-Pulse and 
  Teleradiology System of the Republic of Türkiye, Ministry of Health using various codes and filtering <br>
@@ -102,7 +99,6 @@ Among the employed methods, Unet and DeepLabv3 were the most frequently observed
  Artificial intelligence competitions in healthcare offer good opportunities to collect data 
  reflecting various cases and problems. Especially, annotated data set by domain experts is more valuable.
 <br>
-
 Koç U, Akçapınar Sezer E, Alper Özkaya Y, et al. Artificial intelligence 
 in healthcare competition (TEKNOFEST-2021):<br>
  Stroke data set. Eurasian J Med., 2022;54(3):248-258.
@@ -116,7 +112,6 @@ https://acikveri.saglik.gov.tr/Home/DataSetDetail/1
 <br>
 <br>
 <b>License</b><br>
-
 This dataset was created as part of the TEKNOFEST 2021 Artificial Intelligence in Healthcare Competition, 
 in collaboration with the Turkish Health Institutes Association (TÜSEB) and the Ministry of Health. <br>
 It contains anonymized brain CT scan images in DICOM and PNG formats and has been made publicly available as part of the competition.
