@@ -211,16 +211,7 @@ which can be used in EpochChangeInferencer Callback and an actual segmentation (
              └─mini_test
                 ├─images
                 └─masks
-</pre>
-
-
-<b>Stroke Statistics</b><br>
-<img src ="./projects/TensorFlowFlexUNet/Stroke/Stroke_Statistics.png" width="512" height="auto"><br>
-<br>
-As shown above, the number of images of train and valid datasets is not large  to use for a training set of our segmentation model.
-<br>
-<br>
- 
+</pre> 
 <b>2.3 Train_images_sample</b><br>
 <img src="./projects/TensorFlowFlexUNet/Stroke/asset/train_images_sample.png" width="1024" height="auto">
 <br>
