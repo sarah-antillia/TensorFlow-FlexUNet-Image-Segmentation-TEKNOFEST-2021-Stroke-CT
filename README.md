@@ -98,7 +98,7 @@ imaging and communications in medicine images that contained hemorrhage, ischemi
 Among the employed methods, Unet and DeepLabv3 were the most frequently observed ones.
 <br>
 <br>
-<b>Conclusion:</b><br
+<b>Conclusion:</b><br>
  Artificial intelligence competitions in healthcare offer good opportunities to collect data 
  reflecting various cases and problems. Especially, annotated data set by domain experts is more valuable.
 <br>
@@ -152,9 +152,9 @@ TEKNOFEST 2021 ARTIFICIAL INTELLIGENCE DATASET IN HEALTH
 </a> 
 <!--which was downloaded from the kaggle website
 --> 
-under <b>./genrator</b> folder.<br><br>
+under <b>./generator</b> folder.<br><br>
 
-We renamed the original folder names to be ordinary ascii strings as shown below.<br>
+We renamed the original folder names to be ordinary ASCII strings as shown below.<br>
 <pre>
 ./generetor
  ├─ImageMaskDatasetGeneratory.py
